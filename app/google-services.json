@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951553515606",
+    "project_id": "uas-akb-if-7-10119253",
+    "storage_bucket": "uas-akb-if-7-10119253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951553515606:android:b4d2e08da1232234a39bf7",
+        "android_client_info": {
+          "package_name": "id.mamr.tugassensorakb10119253"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951553515606-kuip0s5vk5cu8f6qpm6m41rk2b730nh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALFFRlqSlvHBtSxu8lx-LwrQklFGsWs7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951553515606-kuip0s5vk5cu8f6qpm6m41rk2b730nh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

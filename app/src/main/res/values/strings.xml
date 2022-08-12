@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UAS AKB IF7 10119253</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_note">Note</string>
+    <string name="title_about">About</string>
+    <string name="ini_about">Ini About</string>
+    <string name="ini_profil">Ini Profile</string>
+    <string name="nama">Mochamad Adi Maulia Rachman</string>
+    <string name="nim">10119253</string>
+    <string name="email">adi.10119253@mahasiswa.unikom.ac.id</string>
+    <string name="kelas">Informatika-7</string>
+    <string name="namaaplikasi">Aplikasi Menyimpan Catatan</string>
+
+    <string name="deskripsi">Memanfaatkan Firebase Authentication Untuk Login dan Register lalu Menggunakan SQLite Untuk Menyimpan Catatan </string>
+    <string name="version">Beta 0.1–13082022</string>
+    <string name="versiontext">App Version</string>
+    <string name="namatitle">NAMA</string>
+    <string name="nimtitle">NIM</string>
+    <string name="kelastitle">KELAS</string>
+    <string name="emailtitle">EMAIL</string>
+    <string name="logo">Logo</string>
+    <string name="empty">Empty</string>
+    <string name="fotoprofile">fotoprofile</string>
+    <string name="login">Login</string>
+    <string name="login_title">Masuk Akun</string>
+    <string name="hint_email">Masukan E-mail</string>
+    <string name="hint_password">Masukan Password</string>
+    <string name="btn_text_login">Login</string>
+    <string name="btn_text_register">Belum punya akun? Register</string>
+    <string name="btn_text_register2">Register</string>
+    <string name="btn_text_login2">Sudah Punya Akun? Login</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="judul_catatan">Judul Catatan</string>
+    <string name="tanggal_buat">Tanggal Dibuat</string>
+    <string name="isi_catatan">Isi Catatan</string>
+    <string name="simpan">Save</string>
+    <string name="batal">Cancel</string>
+</resources>

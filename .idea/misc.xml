@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.1" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.113" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_location.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_onboarding.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_onboarding_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/TugasSensorAKB10119253/app/src/main/res/menu/bottom_navigation.xml" value="0.22" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.113" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.113" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/drawable/ic_launcher_background.xml" value="0.113" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_location.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_onboarding.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_onboarding_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/activity_tambah_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/notes_items.xml" value="0.203125" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/layout/popup_notes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MochamadAdiMR/AndroidStudioProjects/UAS_AKB_IF7_10119253/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
