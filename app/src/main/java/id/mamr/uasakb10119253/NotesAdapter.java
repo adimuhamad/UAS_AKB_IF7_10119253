@@ -1,5 +1,9 @@
 package id.mamr.uasakb10119253;
 
+// NIM : 10119253
+// NAMA : Mochamad Adi Maulia Rahman
+// KELAS : IF-7
+
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.database.Cursor;

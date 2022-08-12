@@ -1,5 +1,9 @@
 package id.mamr.uasakb10119253;
 
+// NIM : 10119253
+// NAMA : Mochamad Adi Maulia Rahman
+// KELAS : IF-7
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.DatePickerDialog;
